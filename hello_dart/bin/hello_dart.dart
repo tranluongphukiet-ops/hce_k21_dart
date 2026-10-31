@@ -4,7 +4,7 @@ void main() {
  var ten = 'Sinh vien HCE';
  print('Xin chao, $ten! Day la chuong trinh Dart dau tien.');
  for (var i = 1; i <= 5; i++) {
- print('Dem: $i');
+ print('Dem: $i xin chao!');
  }
 }
 

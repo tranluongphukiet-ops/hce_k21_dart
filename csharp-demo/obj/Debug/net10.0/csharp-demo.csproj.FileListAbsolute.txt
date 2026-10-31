@@ -1,0 +1,15 @@
+/workspaces/hce_k21_dart/csharp-demo/bin/Debug/net10.0/csharp-demo
+/workspaces/hce_k21_dart/csharp-demo/bin/Debug/net10.0/csharp-demo.deps.json
+/workspaces/hce_k21_dart/csharp-demo/bin/Debug/net10.0/csharp-demo.runtimeconfig.json
+/workspaces/hce_k21_dart/csharp-demo/bin/Debug/net10.0/csharp-demo.dll
+/workspaces/hce_k21_dart/csharp-demo/bin/Debug/net10.0/csharp-demo.pdb
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.AssemblyInfoInputs.cache
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.AssemblyInfo.cs
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.csproj.CoreCompileInputs.cache
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.sourcelink.json
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.dll
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/refint/csharp-demo.dll
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.pdb
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/csharp-demo.genruntimeconfig.cache
+/workspaces/hce_k21_dart/csharp-demo/obj/Debug/net10.0/ref/csharp-demo.dll
